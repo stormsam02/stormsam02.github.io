@@ -1,0 +1,49 @@
+/* paste the navigation module CSS here */
+
+.navbar{
+	
+	background-image:url("images/RCB.jpg");
+	margin-bottom: 20px;
+}
+.navbar-brand img{
+height: 2rem;
+margin-right:10px;
+position:relative;
+bottom:5px;
+
+}
+.navbar li{
+margin-right:10px;
+font-size: 20px;
+
+}
+
+/* end of the navigation module CSS  */
+
+
+/* paste the carousel module  CSS here */
+/* end of the carousel module CSS  */
+
+
+/* paste the three photo section module CSS  here*/
+/* end of the three photo section CSS  */
+
+
+/* paste the MoreAboutus module  CSS here */
+/* end of the MoreAboutus module  CSS*/
+
+
+/* paste the table module  CSS here */
+/* end of the table module  CSS */
+
+
+/* paste the contact module CSS  here */
+/* end of the contact module  CSS */
+
+
+/* paste the button module CSS  here */
+/* end of the button module CSS  */
+
+
+/* paste the footer module CSS  here */
+/* end of the footer module CSS  */
